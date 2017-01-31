@@ -1,3 +1,0 @@
-[submodule "libs/popcornjs"]
-	path = libs/popcornjs
-	url = git@github.com:ryanirelan/popcorn-js.git
